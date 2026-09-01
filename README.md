@@ -23,7 +23,7 @@ My day-to-day is a **school ERP running in production across several schools**, 
 
 Along the way I've worked on external integrations, authentication, push notifications, fiscal APIs, background processing and serverless functions.
 
-- Back-end first: **C#, .NET 8, ASP.NET Core, REST APIs, SQL Server**
+- Back-end first: **C#, .NET, ASP.NET Core, REST APIs, SQL Server**
 - Real production systems, legacy modernization and system integration
 - Into software architecture, clean code, SOLID and database design
 - Comfortable on the front-end (Blazor, React, TypeScript) when a feature needs it
