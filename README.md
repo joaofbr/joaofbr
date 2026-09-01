@@ -1,10 +1,10 @@
 <div align="center">
 
-# João Pedro
+# João Pedro Francisco
 
 **Software Developer · Back-End & .NET**
 
-I build software that real schools depend on every day —<br/>
+I build software that real schools depend on every day,<br/>
 where a bug isn't a ticket, it's a phone call.
 
 <a href="https://joaofbr.github.io/portfolio/">
@@ -19,11 +19,11 @@ where a bug isn't a ticket, it's a phone call.
 
 Software developer from Brazil, around **4 years** of professional experience, mostly on the back-end.
 
-My day-to-day is a **school ERP running in production across several schools** — shipping new features, keeping the existing ones stable, and gradually pulling older parts of the system toward a more modern architecture. The role goes past writing code: I'm also involved in architecture decisions, infrastructure and CI/CD.
+My day-to-day is a **school ERP running in production across several schools**, where I ship new features, keep the existing ones stable, and gradually pull older parts of the system toward a more modern architecture. The role goes past writing code: I'm also involved in architecture decisions, infrastructure and CI/CD.
 
 Along the way I've worked on external integrations, authentication, push notifications, fiscal APIs, background processing and serverless functions.
 
-- Back-end first: **C#, .NET, ASP.NET Core, REST APIs, SQL Server**
+- Back-end first: **C#, .NET 8, ASP.NET Core, REST APIs, SQL Server**
 - Real production systems, legacy modernization and system integration
 - Into software architecture, clean code, SOLID and database design
 - Comfortable on the front-end (Blazor, React, TypeScript) when a feature needs it
@@ -47,10 +47,9 @@ Along the way I've worked on external integrations, authentication, push notific
 **Database**
 
 <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" />&nbsp;&nbsp;&nbsp;
-<img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />&nbsp;&nbsp;&nbsp;
-<img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+<img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" />
 
-`T-SQL` · `MariaDB` · `Database Design`
+`Database Design` · `Relational Modeling`
 
 <br/>
 
@@ -129,7 +128,7 @@ REST API for the school management platform, organized in layers (API · Applica
 
 ### [EGD.Functions](https://github.com/joaofbr/EGD.Functions)
 
-Serverless jobs supporting the platform — scheduled background routines that run outside the main API, such as blocking overdue schools.
+Serverless jobs supporting the platform. Scheduled background routines that run outside the main API, such as blocking overdue schools.
 
 `C#` `Azure Functions` `Serverless`
 
