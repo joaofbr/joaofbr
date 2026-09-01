@@ -72,8 +72,7 @@ Along the way I've worked on external integrations, authentication, push notific
 <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" />&nbsp;&nbsp;&nbsp;
 <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" />&nbsp;&nbsp;&nbsp;
 <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />&nbsp;&nbsp;&nbsp;
-<img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />&nbsp;&nbsp;&nbsp;
-<img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+<img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
 
 `Azure Functions` · `Azure WebJobs` · `GitHub Actions` · `CI/CD`
 
